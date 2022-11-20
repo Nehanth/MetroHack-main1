@@ -32,9 +32,18 @@ Our application utilizes machine learning to predict what genetic disease you ma
 
 
 ## Challenges we ran into 💻
+Proof of concept was shown for our idea. We ran into many roadblocks (as most projects do) and almost quit at one point,
+but we persevered throughout the night and implemented everything we planned to
 
 
 ## Accomplishments that we're proud of 🏆
+Our team was pretty familiar with ML and API requests, but we had minimal expereince with front end development.
+It was a struggle to implement everything in our easy-to-use website.
+
+
+## Next Steps for our project
+The next step would be to acquire better data sets. Our current data set is minimal. With more in depth data sets we would be
+able to furhter our model and increase its accuracy.
 
 
 ## What we learnt 📚
