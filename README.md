@@ -21,9 +21,11 @@ The Idea behind **Nosos** is to build a hassle-free web application which will *
 - Google Map API for Places: It's searching for nearby hospitals with doctors specialising in the disease that the model detects by uploading fingerprints.
 
 ## What it does?🤔
+Our application utilizes machine learning to predict what genetic disease you may have, from just your finger tips! We then recommend you specialized doctors based on your type of disease, if our model predicts you're healthy we'll suggest you a general doctor.
 
 
 ## How we built it ⚙️
+
 
 ## Installation/Execution ✅
 
