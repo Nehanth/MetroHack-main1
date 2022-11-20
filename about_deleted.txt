@@ -1,0 +1,31 @@
+with st.container():
+    st.write("---")
+    st.header("What it does?")
+    st.write("##")
+    image_column, text_column = st.columns((1, 2))
+    with image_column:
+        st.image(img_lottie_animation)
+    with text_column:
+        st.subheader("Integrate Lottie Animations Inside Your Streamlit App")
+        st.write(
+            """
+            Learn how to use Lottie Files in Streamlit!
+            Animations make our web app more engaging and fun, and Lottie Files are the easiest way to do it!
+            In this tutorial, I'll show you exactly how to do it
+            """
+        )
+        st.markdown("[Read More...](https://youtu.be)")
+
+with st.container():
+    image_column, text_column = st.columns((1, 2))
+    with image_column:
+        st.image(img_biometrix)
+    with text_column:
+        st.subheader("How To Add A Contact Form To Your Streamlit App")
+        st.write(
+            """
+            Want to add a contact form to your Streamlit website?
+            In this video, I'm going to show you how to implement a contact form in your Streamlit app using the free service ‘Form Submit’.
+            """
+        )
+        st.markdown("[Read More...](https://youtu.be)")
