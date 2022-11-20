@@ -30,7 +30,13 @@ We used CoreML and Google Map's API for our backend and used streamlit for out f
 
 ## Installation/Execution ✅
 
+```
+pip install
+```
 
+```
+python -m streamlit run (followed by your file path)/About.py
+```
 
 ## Challenges we ran into 💻
 Proof of concept was shown for our idea. We ran into many roadblocks (as most projects do) and almost quit at one point,
@@ -48,6 +54,7 @@ able to furhter our model and increase its accuracy.
 
 
 ## What we learnt 📚
+Team work is dream work!
 
 ## Show your support
 
