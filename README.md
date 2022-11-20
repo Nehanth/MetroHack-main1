@@ -25,7 +25,7 @@ Our application utilizes machine learning to predict what genetic disease you ma
 
 
 ## How we built it ⚙️
-We used CoreML and Google Map's API for our backend and used streamlit for out front end
+We used CoreML and Google Map's API for our backend and used streamlit for our front end.
 
 
 ## Installation/Execution ✅
