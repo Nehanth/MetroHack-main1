@@ -60,6 +60,8 @@ if (health_Score == 0 or health_Score == 1):
 
 elif (health_Score == 2):
     st.write('Our model predicts that you might have Diabeties')
+    st.write(
+        "[Learn more](http://localhost:8501/Articles)")
     st.markdown('--------------------------------------------')
     st.write('Here are some Doctors nearby that specialize in Diabeties')
     get_map = map.getDocs(str(special_Doctors[i]) + ' Hospitals in ' + city)
@@ -74,6 +76,8 @@ elif (health_Score == 2):
 
 elif (health_Score == 3):
     st.write('Our model predicts that you might have Heart Diseases')
+    st.write(
+        "[Learn more](http://localhost:8501/Articles)")
     st.markdown('--------------------------------------------')
     st.write('Here are some Doctors nearby that specialize in Cadiovascular Diseases')
 
@@ -82,6 +86,8 @@ elif (health_Score == 3):
 
 elif (health_Score == 4):
     st.write('Our model predicts that you might have Multiple Sclerosis')
+    st.write(
+        "[Learn more](http://localhost:8501/Articles)")
     st.markdown('--------------------------------------------')
     st.write('Here are some Nueralogist in your area')
     #st.image(img)
@@ -89,6 +95,8 @@ elif (health_Score == 4):
 
 elif (health_Score == 5):
     st.write('Our model predicts that you might have Asthma')
+    st.write(
+        "[Learn more](http://localhost:8501/Articles)")
     st.markdown('--------------------------------------------')
     st.write('Here are some Pulmonologist in your area')
     #st.image(img)

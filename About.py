@@ -25,7 +25,7 @@ img_lottie_animation = Image.open("images/img2.jpg")
 
 
 # st.title("Main Page")
-st.subheader("Welcome!")
+st.subheader("Welcome to team Nosos!")
 st_lottie(lottie_welcome, height=300, key="welcome")
 st.title("Genetic Disease Detection at your fingerprints.")
 st.write("")
